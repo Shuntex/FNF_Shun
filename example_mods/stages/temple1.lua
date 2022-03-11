@@ -1,6 +1,6 @@
 function onCreate()
 	-- background shit
-	makeLuaSprite('temple1', 'temple1', -600, -300);
+	makeLuaSprite('temple1', 'temple1', -700, -400);
 	setLuaSpriteScrollFactor('temple1', 0.9, 0.9);
 
 	addLuaSprite('temple1', false);

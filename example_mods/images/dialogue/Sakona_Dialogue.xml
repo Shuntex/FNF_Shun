@@ -7,12 +7,16 @@
 	<SubTexture name="SakoShockLOOP0004" x="3008" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
 	<SubTexture name="SakoShockLOOP0005" x="3008" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
 	
-	<SubTexture name="SakoShockSTOP0002" x="3008" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SakoShockSTOP0000" x="3008" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
 	
 	<SubTexture name="SakoHappyLOOP0000" x="4512" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
-	<SubTexture name="SakoHappyLOOP0001" x="0" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
-	<SubTexture name="SakoHappyLOOP0002" x="1504" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
-	<SubTexture name="SakoHappySTOP0002" x="1504" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SakoHappyLOOP0002" x="4512" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SakoHappyLOOP0003" x="0" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SakoHappyLOOP0004" x="0" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SakoHappyLOOP0005" x="1504" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SakoHappyLOOP0006" x="1504" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	
+	<SubTexture name="SakoHappySTOP0000" x="1504" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
 	
 	<SubTexture name="SakoCryingLOOP0000" x="3008" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
 	<SubTexture name="SakoCryingLOOP0001" x="3008" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />

@@ -1,5 +1,5 @@
-local xx = 350;
-local yy = 350;
+local xx = 400;
+local yy = 250;
 local xx2 = 820;
 local yy2 = 450;
 local ofs = 30;
@@ -13,6 +13,12 @@ function onCreate()
 	setProperty('Continue.alpha', 0);
 	setObjectCamera('Continue', 'other')
 	addLuaSprite('Continue', true);
+	
+	makeAnimatedLuaSprite('Secret', 'invalid_bmp', 0, 0);
+	setObjectCamera('Secret', 'other');
+	addAnimationByPrefix('Secret', 'Code', 'NULL', 10, false)
+	setProperty('Secret.visible', false)
+	addLuaSprite('Secret', true)
 end
 
 local allowCountdown = false
@@ -40,6 +46,12 @@ end
 function onBeatHit()
 	if curBeat > 256 then
         doTweenAlpha('ContinueAlpha', 'Continue', 1.0, 1.0, 'quintOut');
+    end
+	
+	if curBeat > 257 then
+		runTimer('secret', 1.8);
+		setProperty('Secret.visible', true)
+		objectPlayAnimation('Secret', 'Code', false)
     end
 end
 
@@ -130,8 +142,10 @@ function onTimerCompleted(tag, loops, loopsLeft)
 		startDialogue('final');
 	end
 	if tag == 'unPause' then
-		removeLuaSprite('NoPause', true)
+		removeLuaSprite('Secret', true)
 		prevent = false
 	end
-	
+	if tag == 'secret' then 
+		setProperty('Secret.visible', false)
+	end
 end

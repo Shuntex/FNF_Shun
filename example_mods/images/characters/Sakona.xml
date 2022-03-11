@@ -1,17 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TextureAtlas imagePath="Sakona.png">
-	<SubTexture name="SakonaIdleOLD0000" x="0" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
-	<SubTexture name="SakonaIdleOLD0001" x="1504" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
-	<SubTexture name="SakonaIdleOLD0002" x="3008" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
-	<SubTexture name="SakonaIdleOLD0003" x="4512" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
-	<SubTexture name="SakonaIdleOLD0004" x="6016" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
-	<SubTexture name="SakonaIdleOLD0005" x="7520" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
-	<SubTexture name="SakonaIdleOLD0006" x="7520" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
-	<SubTexture name="SakonaIdleOLD0007" x="7520" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
-	<SubTexture name="SakonaIdleOLD0008" x="7520" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
-	<SubTexture name="SakonaIdleOLD0009" x="7520" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
-	<SubTexture name="SakonaIdleOLD0010" x="7520" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
-	
 	<SubTexture name="SakonaIdleDance0000" x="10532" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
 	<SubTexture name="SakonaIdleDance0001" x="12036" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
 	<SubTexture name="SakonaIdleDance0002" x="0" y="8068" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />

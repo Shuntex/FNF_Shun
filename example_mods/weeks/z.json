@@ -9,7 +9,6 @@
 		253
 	],
 	"startUnlocked": true,
-	"hideStoryMode": true,
 	"weekCharacters": [
 		"",
 		"bf",
@@ -24,16 +23,8 @@
 				0,
 				60
 			]
-		],
-		[
-			"fallen",
-			"dad",
-			[
-				0,
-				0,
-				60
-			]
 		]
 	],
+	"hideStoryMode": true,
 	"weekName": "mixes"
 }

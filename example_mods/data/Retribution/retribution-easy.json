@@ -3769,10 +3769,9 @@
 				"mustHitSection": true
 			}
 		],
-		"player3": "gf",
+		"gfVersion": "gf_sakona",
 		"song": "Retribution",
 		"validScore": true,
-		"stage": "temple1 - TBC",
 		"sections": 0,
 		"needsVoices": true,
 		"speed": 1.9,

@@ -35,13 +35,20 @@ function onSongStart()
     end
 end
 function endSong(tag, loops, loopsLeft)
-	if tag == 'startDialogue' then -- Timer completed, play dialogue
-		startDialogue('dialogue2');
+	if isStoryMode then
+		setProperty('inCutscene', true);
+		runTimer('startDialogue2', 0.8);
+		allowCountdown = true;
+		return Function_Stop;
 	end
+	return Function_Continue;
 end
 function onTimerCompleted(tag, loops, loopsLeft)
 	if tag == 'startDialogue' then -- Timer completed, play dialogue
 		startDialogue('dialogue');
+	end
+	if tag == 'startDialogue2' then -- Timer completed, play dialogue
+		startDialogue('dialogue2');
 	end
 end
 
@@ -92,8 +99,6 @@ function coolresetStrums(time)
 end
 
 function onUpdate(elapsed)
-	
-
 	if del > 0 then
 		del = del - 1
 	end
@@ -133,8 +138,7 @@ function onUpdate(elapsed)
                 triggerEvent('Camera Follow Pos',xx,yy)
             end
         else
-
-            if getProperty('boyfriend.animation.curAnim.name') == 'singLEFT' then
+			if getProperty('boyfriend.animation.curAnim.name') == 'singLEFT' then
                 triggerEvent('Camera Follow Pos',xx2-ofs,yy2)
             end
             if getProperty('boyfriend.animation.curAnim.name') == 'singRIGHT' then

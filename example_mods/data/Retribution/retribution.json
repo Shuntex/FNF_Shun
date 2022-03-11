@@ -4320,10 +4320,9 @@
 			}
 		],
 		"player2": "shuntex",
-		"player3": "gf",
+		"gfVersion": "gf_sakona",
 		"song": "Retribution",
 		"needsVoices": true,
-		"stage": "temple1 - TBC",
 		"validScore": true,
 		"sections": 0,
 		"bpm": 145,

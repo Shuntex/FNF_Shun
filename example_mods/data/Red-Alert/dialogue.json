@@ -4,78 +4,78 @@
 			"expression": "talk_alt",
 			"text": "BAHAHAHAHAHAHAAHAHAAA",
 			"boxState": "angry",
-			"portrait": "INVALID",
-			"speed": 0.05
+			"speed": 0.05,
+			"portrait": "INVALID"
 		},
 		{
 			"expression": "shock",
 			"text": "EEP-!! What have you done with Boyfriend!?",
 			"boxState": "angry",
-			"portrait": "sakona",
-			"speed": 0.05
+			"speed": 0.05,
+			"portrait": "sakona"
 		},
 		{
 			"expression": "scared",
-			"text": "Him and his little girlfriend is gone with the wind. That just leaves US.",
+			"text": "Him and his little girlfriend are gone with the wind. That just leaves us two.",
 			"boxState": "angry",
-			"portrait": "invalid",
-			"speed": 0.05
+			"speed": 0.05,
+			"portrait": "invalid"
 		},
 		{
 			"expression": "shocked",
-			"text": "What's the matter? Too scared!?",
+			"text": "And what's better, is Shun isn't here to stop me from killing you here and now!",
 			"boxState": "angry",
-			"portrait": "invalid",
-			"speed": 0.05
+			"speed": 0.05,
+			"portrait": "invalid"
 		},
 		{
-			"expression": "talk",
-			"text": "Save your pathetic mumbling for after I kill you and take over this universe.",
-			"boxState": "angry",
-			"portrait": "INVALID",
-			"speed": 0.05
+			"expression": "scared",
+			"text": ". . .",
+			"boxState": "normal",
+			"speed": 0.005,
+			"portrait": "Sakona"
 		},
 		{
 			"expression": "talk",
 			"text": "Now how about we make this quick, shall we?",
 			"boxState": "angry",
-			"portrait": "INVALID",
-			"speed": 0.05
+			"speed": 0.05,
+			"portrait": "INVALID"
 		},
 		{
-			"expression": "shock",
+			"expression": "scared",
 			"text": "P-Please, you don't have to do this...",
 			"boxState": "normal",
-			"portrait": "sakona",
-			"speed": 0.05
+			"speed": 0.05,
+			"portrait": "sakona"
 		},
 		{
 			"expression": "talk",
 			"text": "You really haven't learned, have you...",
 			"boxState": "normal",
-			"portrait": "INVALID",
-			"speed": 0.12
+			"speed": 0.05,
+			"portrait": "INVALID"
 		},
 		{
 			"expression": "talk",
 			"text": "For your stupidity, I'll make this as painful as possible for you.",
 			"boxState": "angry",
-			"speed": 0.05,
-			"portrait": "invalid"
+			"portrait": "invalid",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "Don't expect to stick around for long, you'll hit my trick very quickly, and you'll come crumbling away into the abyss. ",
 			"boxState": "angry",
-			"speed": 0.05,
-			"portrait": "invalid"
+			"portrait": "invalid",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "You won't last a second against ME. Leonidas, the virus of your reality.",
 			"boxState": "angry",
-			"speed": 0.05,
-			"portrait": "invalid"
+			"portrait": "invalid",
+			"speed": 0.05
 		}
 	]
 }

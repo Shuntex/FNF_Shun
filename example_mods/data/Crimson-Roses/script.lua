@@ -10,10 +10,6 @@ local del2 = 0;
 local allowCountdown = false
 
 function onCreate()
-	makeLuaSprite('Continue', 'Cont', 0, 0);
-	setProperty('Continue.alpha', 0);
-	setObjectCamera('Continue', 'other')
-	addLuaSprite('Continue', true);
 	
 end
 
@@ -29,9 +25,7 @@ function onStartCountdown()
 end
 
 function onBeatHit()
-	if curBeat > 255 then
-        doTweenAlpha('ContinueAlpha', 'Continue', 1.0, 1.0, 'quintOut');
-    end
+	
 end
 
 function onSongStart()

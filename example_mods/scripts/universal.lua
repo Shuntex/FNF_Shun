@@ -109,8 +109,10 @@ function noteMiss(id, noteData, noteType, isSustainNote, tag, loops, loopsleft)
 	
 	if noteType == 'CRASH_NOTES' then
 		if isCrashing == true then
+			cameraShake("camHUD", 999999, 999999);
+			setProperty('health', 1.0);
 			playMusic('red-alertCrash', 1, true)
-			cameraShake("camHUD", 999999.0, 999999.0);
+			
 			setProperty('Crash.visible', true)
 			
 			isCrashing = false;
@@ -127,27 +129,15 @@ function goodNoteHit()
 		hpProhibit = false;
 	end
 	health = getProperty('health')
-    if getProperty('health') > 0.1 then
-        setProperty('health', health+ 0.05);
-    end
-	--H E L L
-	if hpProhibit == true then
-		if getProperty('health') > 0.1 then
-        setProperty('health', health- 0.023);
-    end
-		notesUntilCure = notesUntilCure + 1
-	end
-	--H E L L
+    setProperty('health', health+ 0.03);
 end
 function onUpdate(elapsed)
 	health = getProperty('health')
-	
 	if getProperty('health') > 0.05 then
         setProperty('health', health- healthDrainPoison * poisonStacks * elapsed);
     end
 	--H E L L
 	--H E L L
-	
 	if notesUntilCure == 30 then
 		hpProhibit = false;
 	end
@@ -193,13 +183,13 @@ end
 	--return Function_Continue;
 --end
 prevent = false;
---[[function onPause()
-	return Function_Stop;
+--function onPause()
+	--return Function_Continue;
 	
 	-- Called when you press Pause while not on a cutscene/etc
 	-- return Function_Stop if you want to stop the player from pausing the game	
 	-- return Function_Stop if you want to stop the player from pausing the game	
-end]]
+--end
 
 
 
@@ -211,6 +201,7 @@ function onTimerCompleted(tag, loops, loopsLeft)
 		makeLuaSprite('NUL', 'null', -1800, -800);
 		setScrollFactor('NUL', 0, 0); 
 		addLuaSprite('NUL', false);
+		
 		return Function_Stop;
 	end
 	if tag == 'crash' then -- Timer completed, play dialogue
@@ -233,7 +224,7 @@ function onTimerCompleted(tag, loops, loopsLeft)
 		stopSound('glitch')
 		setProperty('health', 0.0);
 		setProperty('camHUD.alpha', 0);
-		user32.MessageBoxA(nil, "Failed to load memory address 0x000010D2.", "Windows - Critical Error", ffi.C.MB_OK + ffi.C.MB_ICONHAND)
+		user32.MessageBoxA(nil, "The system detected an overrun of a stack-based buffer in this application. This overrun could potentially allow a malicious user to gain control of this application.", "System Error", ffi.C.MB_OK + ffi.C.MB_ICONHAND)
 		
 		
 	

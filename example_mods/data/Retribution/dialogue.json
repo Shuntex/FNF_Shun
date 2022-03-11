@@ -1,53 +1,60 @@
 {
 	"dialogue": [
 		{
-			"expression": "wtf",
-			"text": ". . . . . .",
+			"expression": "talk3",
+			"text": "Well, not bad kid.",
 			"boxState": "normal",
-			"portrait": "shuntex",
-			"speed": 0.4
+			"speed": 0.05,
+			"portrait": "shuntex"
 		},
 		{
 			"expression": "scared",
-			"text": "Shun..? Are you okay..?",
+			"text": "Bep bop!",
 			"boxState": "normal",
-			"portrait": "sakona",
-			"speed": 0.05
+			"speed": 0.05,
+			"portrait": "bf"
 		},
 		{
-			"expression": "talk",
-			"text": "Beep bop?",
+			"expression": "talk2",
+			"text": "Wait, you want to go again?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shuntex"
+		},
+		{
+			"expression": "talk3",
+			"text": "Listen, I'd love to, but I have things I need to do.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shuntex"
+		},
+		{
+			"expression": "talk2",
+			"text": "After all, 'someone' has to protect y'all from dangers that could rise.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shuntex"
+		},
+		{
+			"expression": "angry",
+			"text": "Bep bop bap! Beep?",
 			"boxState": "normal",
 			"portrait": "bf",
 			"speed": 0.05
 		},
 		{
-			"expression": "talk",
-			"text": "... Just start the next song.",
+			"expression": "wtf",
+			"text": ". . .",
 			"boxState": "normal",
-			"portrait": "shuntex",
-			"speed": 0.05
-		},
-		{
-			"expression": "scared",
-			"text": "A-Are you sure? Did you-",
-			"boxState": "normal",
-			"portrait": "sakona",
-			"speed": 0.05
-		},
-		{
-			"expression": "angry",
-			"text": "I SAID START THE SONG.",
-			"boxState": "angry",
 			"speed": 0.05,
 			"portrait": "shuntex"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "sakona",
-			"boxState": "angry",
-			"expression": "shock",
-			"text": "EEP-!!"
+			"portrait": "shuntex",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "Fine, one more song. Thats it."
 		}
 	]
 }

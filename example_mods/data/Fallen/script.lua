@@ -18,6 +18,7 @@ local spin = true;
 local arrowMoveX = 2;
 local arrowMoveY = 2;
 
+local isCrashing = false;
 --function onCreatePost()
 
 --addChromaticAbberationEffect('camHUD', 0.003)
@@ -41,6 +42,8 @@ function onCreate()
 	objectPlayAnimation('NoPause', 'STOP', false)
 	setProperty('NoPause.visible', false)
 	addLuaSprite('NoPause',true)
+	
+	
 	--[[for i=0,4,1 do
 		setPropertyFromGroup('opponentStrums', i, 'texture', 'Fallen Notes')
 		--setPropertyFromGroup('unspawnNotes', i, 'texture', 'Fallen Notes')
@@ -96,8 +99,6 @@ function onEndSong()
 	return Function_Continue;
 end
 
-
-
 function onSongStart()
 	cameraFlash(camHUD, white, 0.4,'true')
 	cameraFlash(game, white, 0.4,'true')
@@ -120,7 +121,6 @@ function coolresetStrums(time)
     end
 end
 
-
 local hurt = 0.006;
 local shake = 0.01;
 local shakeTime = 0.08;
@@ -134,8 +134,6 @@ end
 function onStepHit()
 	
 end
-
-
 
 function onMoveCamera(focus)
     if focus == 'boyfriend' then
@@ -155,6 +153,14 @@ function onSkipDialogue(count)
 end
 
 function onUpdate(elapsed)
+	if isCrashing == false then
+		if keyJustPressed('accept') then
+			runTimer('noPause', 0.8);
+			setProperty('NoPause.visible', true)
+			objectPlayAnimation('NoPause.visible', 'DANGER', true)
+		end
+	end
+
 	doTweenAlpha('HpAlpha', 'HP', 0.6, 0.8, 'quintOut');
 	--[[for i = 0, 7, 1 do
         noteTweenAngle('tween'.. i, i, 360, 1, 'linear');
@@ -262,6 +268,10 @@ function onTimerCompleted(tag, loops, loopsLeft)
 	if tag == 'unPause' then
 		removeLuaSprite('NoPause', true)
 		prevent = false
+	end
+	if tag == 'noPause' then
+		setProperty('NoPause.visible', false)
+		objectPlayAnimation('NoPause.visible', 'DANGER', true)
 	end
 end
 

@@ -4,85 +4,120 @@
 			"expression": "talk",
 			"text": "Bep bop?",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "Hello.. can i help you?",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "sakona"
+			"portrait": "sakona",
+			"speed": 0.05
 		},
 		{
 			"expression": "shocked",
 			"text": "Bep!?",
 			"boxState": "angry",
-			"speed": 0.015,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.015
 		},
 		{
-			"expression": "shock",
+			"expression": "scared",
 			"text": "Ah! S-Sorry for startling you...",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "sakona"
+			"portrait": "sakona",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "B-Beep bop bap?",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "happy",
-			"text": "I'm Sakona Kurino, princess of the Kitsune Clan.",
+			"text": "I'm Sakona Kurino, princess of the Kitsune Clan. And you are?",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "sakona"
-		},
-		{
-			"expression": "talk",
-			"text": "Boop? Bep bap?",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
-		},
-		{
-			"expression": "talk",
-			"text": "Huh? You want to rap battle with me?",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "sakona"
-		},
-		{
-			"expression": "talk",
-			"text": "Beep! Bop bap?",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
-		},
-		{
-			"expression": "talk",
-			"text": "I mean...",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "sakona"
-		},
-		{
-			"expression": "happy",
-			"text": "Oh what the heck, I have time to kill... Lets do it!!",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "sakona"
+			"portrait": "sakona",
+			"speed": 0.05
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep bap beepo bep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sakona",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "'Boyfriend' huh? Interesting name... Does this make this fella here 'Girlfriend'?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sakona",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I see, well that's sweet!"
+		},
+		{
+			"expression": "talk",
+			"text": "Boop! Bep bap?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Huh? You want to rap battle with me?",
+			"boxState": "normal",
+			"portrait": "sakona",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Beep! Bop bap bep?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Well, I'm not much of a rapper, but...",
+			"boxState": "normal",
+			"portrait": "sakona",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "I could simply just sing, if that satisfies you?",
+			"boxState": "normal",
+			"portrait": "sakona",
+			"speed": 0.05
+		},
+		{
 			"expression": "excited",
-			"text": "Bep!"
+			"text": "Bep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sakona",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Great! Let's get started!"
 		}
 	]
 }

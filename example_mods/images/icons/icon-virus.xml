@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="icon-virus.png">
+	<SubTexture name="LeoNorm0000" x="0" y="0" width="204" height="204" frameX="50" frameY="50" frameWidth="204" frameHeight="204" />
+	<SubTexture name="LeoNorm0001" x="204" y="0" width="204" height="204" frameX="50" frameY="50" frameWidth="204" frameHeight="204" />
+	<SubTexture name="LeoNorm0002" x="408" y="0" width="204" height="204" frameX="50" frameY="50" frameWidth="204" frameHeight="204" />
+	<SubTexture name="LeoNorm0003" x="612" y="0" width="204" height="204" frameX="50" frameY="50" frameWidth="204" frameHeight="204" />
+	<SubTexture name="LeoNorm0004" x="0" y="204" width="204" height="204" frameX="50" frameY="50" frameWidth="204" frameHeight="204" />
+	<SubTexture name="LeoNorm0005" x="204" y="204" width="204" height="204" frameX="50" frameY="50" frameWidth="204" frameHeight="204" />
+	<SubTexture name="LeoNorm0006" x="408" y="204" width="204" height="204" frameX="50" frameY="50" frameWidth="204" frameHeight="204" />
+	<SubTexture name="LeoLose0000" x="612" y="204" width="204" height="204" frameX="50" frameY="50" frameWidth="204" frameHeight="204" />
+	<SubTexture name="LeoLose0001" x="0" y="408" width="204" height="204" frameX="50" frameY="50" frameWidth="204" frameHeight="204" />
+	<SubTexture name="LeoLose0002" x="204" y="408" width="204" height="204" frameX="50" frameY="50" frameWidth="204" frameHeight="204" />
+	<SubTexture name="LeoLose0003" x="408" y="408" width="204" height="204" frameX="50" frameY="50" frameWidth="204" frameHeight="204" />
+	<SubTexture name="LeoLose0004" x="612" y="408" width="204" height="204" frameX="50" frameY="50" frameWidth="204" frameHeight="204" />
+	<SubTexture name="LeoWin0000" x="0" y="612" width="204" height="204" frameX="50" frameY="50" frameWidth="204" frameHeight="204" />
+	<SubTexture name="LeoWin0001" x="204" y="612" width="204" height="204" frameX="50" frameY="50" frameWidth="204" frameHeight="204" />
+	<SubTexture name="LeoWin0002" x="408" y="612" width="204" height="204" frameX="50" frameY="50" frameWidth="204" frameHeight="204" />
+	<SubTexture name="LeoWin0003" x="612" y="612" width="204" height="204" frameX="50" frameY="50" frameWidth="204" frameHeight="204" />
+	<SubTexture name="LeoWin0004" x="0" y="816" width="204" height="204" frameX="50" frameY="50" frameWidth="204" frameHeight="204" />
+</TextureAtlas>

@@ -1,57 +1,58 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				19,
 				30
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "SakonaRight"
+			"fps": 24,
+			"name": "SakonaRight",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				14,
 				25
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "SakonaUp"
+			"fps": 24,
+			"name": "SakonaUp",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				25,
 				26
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "SakonaDown"
+			"fps": 24,
+			"name": "SakonaDown",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				11,
 				40
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "SakonaLeft"
+			"fps": 24,
+			"name": "SakonaLeft",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				17,
 				31
 			],
-			"loop": false,
-			"fps": 32,
 			"anim": "hey",
+			"fps": 32,
+			"name": "SakonaHey",
 			"indices": [
 				0,
 				1,
@@ -77,17 +78,17 @@
 				11,
 				11,
 				11
-			],
-			"name": "SakonaHey"
+			]
 		},
 		{
+			"loop": false,
 			"offsets": [
 				13,
 				34
 			],
-			"loop": false,
-			"fps": 20,
 			"anim": "head",
+			"fps": 20,
+			"name": "SakonaHead",
 			"indices": [
 				0,
 				0,
@@ -383,38 +384,28 @@
 				16,
 				16,
 				16
-			],
-			"name": "SakonaHead"
+			]
 		},
 		{
 			"offsets": [
-				10,
-				30
+				13,
+				34
 			],
 			"indices": [
 				0,
 				1,
 				2,
-				3
-			],
-			"fps": 18,
-			"anim": "danceRight",
-			"loop": false,
-			"name": "SakonaIdleDance"
-		},
-		{
-			"offsets": [
-				10,
-				30
-			],
-			"indices": [
+				3,
+				3,
+				3,
+				3,
 				4,
 				5,
 				6,
 				7
 			],
 			"fps": 18,
-			"anim": "danceLeft",
+			"anim": "idle",
 			"loop": false,
 			"name": "SakonaIdleDance"
 		}

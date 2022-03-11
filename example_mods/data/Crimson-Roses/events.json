@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "temple1",
+		"player1": "bf",
+		"player2": "sakona",
+		"player3": null,
+		"events": [
+			[
+				23250,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"sakona"
+					]
+				]
+			],
+			[
+				103500,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"sakona"
+					]
+				]
+			],
+			[
+				104625,
+				[
+					[
+						"Play Animation",
+						"head",
+						"sakona"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf_temple",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Crimson-Roses"
+	}
+}

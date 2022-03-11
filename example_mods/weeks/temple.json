@@ -1,28 +1,24 @@
 {
 	"storyName": "THE VERY EDGY FLOOF",
 	"difficulties": "Normal, Hard",
-	"hideFreeplay": false,
+	"hideFreeplay": true,
 	"weekBackground": "shun",
+	"weekBefore": "",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Crimson Roses",
 			"sakona",
 			[
 				255,
-				0,
-				195
+				120,
+				215
 			]
 		],
 		[
@@ -44,6 +40,10 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"weekName": "temple"
 }

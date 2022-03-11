@@ -7915,6 +7915,26 @@
 				"bpm": 166
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 166,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 166
+			},
+			{
 				"gfSection": false,
 				"lengthInSteps": 16,
 				"altAnim": false,
@@ -7925,8 +7945,19 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "invalid",
-		"events": [],
+		"player2": "INVALID",
+		"events": [
+			[
+				0,
+				[
+					[
+						"death",
+						"",
+						""
+					]
+				]
+			]
+		],
 		"player3": "gf",
 		"song": "Red-Alert",
 		"stage": "error-stage",

@@ -15,6 +15,10 @@ local angleshit = 1.5;
 local anglevar = 1.5;
 
 local speen = 270;
+
+local newIcon = false;
+ 
+local pause = false;
  
 local allowCountdown = false
 function onCreate()
@@ -27,7 +31,11 @@ function onCreate()
 	setObjectCamera('Continue', 'other')
 	addLuaSprite('Continue', true);
 	
-	
+	makeAnimatedLuaSprite('NoPause', 'DANGER', 0, 0);
+	setObjectCamera('NoPause', 'other');
+	addAnimationByPrefix('NoPause', 'STOP', 'DANGER', 24, false)
+	setProperty('NoPause.visible', false)
+	addLuaSprite('NoPause', true)
 end
 
 function onMoveCamera(focus)
@@ -51,6 +59,8 @@ function onStartCountdown()
 	return Function_Continue;
 end
 function onSongStart()
+	pause = true;
+
 	for i = 0,7 do 
         x = getPropertyFromGroup('strumLineNotes', i, 'x')
  
@@ -71,33 +81,9 @@ function coolresetStrums(time)
 end
 
 function onBeatHit()
-	
-		
-	if curBeat > 124 then
-        --if spin == false then
-			if curBeat % 2 == 0 then
-            angleshit = anglevar;
-			else
-				angleshit = -anglevar;
-			end
-			 setProperty('camHUD.angle',angleshit*0)
-        --setProperty('camGame.angle',angleshit*3)
-        doTweenAngle('turn', 'camHUD', angleshit, stepCrochet*0.000, 'circOut')
-        doTweenX('tuin', 'camHUD', -angleshit*20, crochet*0.001, 'linear')
-        --doTweenAngle('tt', 'camGame', angleshit, stepCrochet*0.002, 'circOut')
-        --doTweenX('ttrn', 'camGame', -angleshit*8, crochet*0.001, 'linear')
-		--end
-    end
-	
 	if curBeat > 384 then
         doTweenAlpha('ContinueAlpha', 'Continue', 1.0, 1.0, 'quintOut');
     end
-end
-
-function onTimerCompleted(tag, loops, loopsLeft)
-	if tag == 'startDialogue' then -- Timer completed, play dialogue
-		startDialogue('dialogue');
-	end
 end
 
 -- Dialogue (When a dialogue is finished, it calls startCountdown again)
@@ -113,6 +99,14 @@ end
               
 
 function onUpdate(elapsed)
+	if pause == true then 
+        if keyJustPressed('accept') then
+			runTimer('noPause', 1.2);
+			setProperty('NoPause.visible', true)
+			objectPlayAnimation('NoPause', 'STOP', false)
+		end
+    end 
+	
 	if getProperty('health') < 0.2 then
 		for i = 0,7 do
 			noteTweenX("movementX " .. i, i, defaultNotePos[i + 1][1], time, "linear")
@@ -131,8 +125,6 @@ function onUpdate(elapsed)
             setPropertyFromGroup('strumLineNotes', i, 'y', defaultNotePos[i + 1][2] + arrowMoveY * math.cos((currentBeat + i*0.25) * math.pi))
         end
     end 
-	
-
 -- =============================================
 	if del > 0 then
 		del = del - 1
@@ -173,8 +165,7 @@ function onUpdate(elapsed)
                 triggerEvent('Camera Follow Pos',xx,yy)
             end
         else
-
-            if getProperty('boyfriend.animation.curAnim.name') == 'singLEFT' then
+			if getProperty('boyfriend.animation.curAnim.name') == 'singLEFT' then
                 triggerEvent('Camera Follow Pos',xx2-ofs,yy2)
             end
             if getProperty('boyfriend.animation.curAnim.name') == 'singRIGHT' then
@@ -207,8 +198,20 @@ function opponentNoteHit()
 end
 function onPause()
 	return Function_Stop;
-	
 	-- Called when you press Pause while not on a cutscene/etc
 	-- return Function_Stop if you want to stop the player from pausing the game	
 	-- return Function_Stop if you want to stop the player from pausing the game	
+end
+function noteMiss(id, noteData, noteType, isSustainNote, tag, loops, loopsleft)
+	if noteType == 'CRASH_NOTES' then
+		isCrashing = true;
+	end
+end
+function onTimerCompleted(tag, loops, loopsLeft)
+	if tag == 'startDialogue' then -- Timer completed, play dialogue
+		startDialogue('dialogue');
+	end
+	if tag == 'noPause' then
+		setProperty('NoPause.visible', false)
+	end
 end

@@ -4,71 +4,71 @@
 			"expression": "scared",
 			"text": "Wh! Where am I!?",
 			"boxState": "normal",
-			"portrait": "sakona",
-			"speed": 0.05
+			"speed": 0.05,
+			"portrait": "sakona"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "angry",
 			"expression": "shocked",
-			"text": "B-Bep!?"
+			"text": "B-Bep!?",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
 		},
 		{
 			"expression": "sly",
 			"text": "Well hello there, puny little boyfriend, and fox girl.",
 			"boxState": "angry",
-			"portrait": "leonidas",
-			"speed": 0.05
+			"speed": 0.05,
+			"portrait": "leonidas"
 		},
 		{
 			"expression": "shock",
-			"text": "L-LEONIDAS!?",
+			"text": "L-LEONIDAS!? YOU brought us here!?",
 			"boxState": "angry",
-			"portrait": "sakona",
-			"speed": 0.05
+			"speed": 0.05,
+			"portrait": "sakona"
 		},
 		{
 			"expression": "talk",
-			"text": "I saw your little 'fiasco' you two had, along with that damn bag of fuzz you call Shun.",
+			"text": "Shocked, aren't ya?",
 			"boxState": "normal",
-			"portrait": "leonidas",
-			"speed": 0.05
+			"speed": 0.05,
+			"portrait": "leonidas"
 		},
 		{
 			"expression": "scared",
-			"text": "W-What are you getting at!?",
+			"text": "W-Wheres Shun!?",
 			"boxState": "angry",
-			"portrait": "sakona",
-			"speed": 0.05
+			"speed": 0.05,
+			"portrait": "sakona"
 		},
 		{
 			"expression": "sly",
-			"text": "It's quite simple. We rap, I win, and then I corrupt the universe. Have you not learned this by now?",
+			"text": "Oh he'll be here, I'm sure of it. And when that happens, I'll be ready.",
 			"boxState": "angry",
-			"portrait": "leonidas",
-			"speed": 0.05
+			"speed": 0.05,
+			"portrait": "leonidas"
 		},
 		{
 			"expression": "scared",
 			"text": "B-bep bop bap!!",
 			"boxState": "angry",
-			"portrait": "bf",
-			"speed": 0.05
+			"speed": 0.05,
+			"portrait": "bf"
 		},
 		{
 			"expression": "talk",
 			"text": "We'll see about that, you little runt, you have no idea who you're going up against.",
 			"boxState": "angry",
-			"portrait": "leonidas",
-			"speed": 0.05
+			"speed": 0.05,
+			"portrait": "leonidas"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "sakona",
-			"boxState": "normal",
 			"expression": "scared",
-			"text": "P-Please be careful, Boyfriend."
+			"text": "P-Please be careful, Boyfriend, Leonidas is no joke...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sakona"
 		}
 	]
 }

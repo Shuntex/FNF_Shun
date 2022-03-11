@@ -3652,16 +3652,6 @@
 						0
 					],
 					[
-						122571.428571429,
-						6,
-						0
-					],
-					[
-						122892.857142857,
-						5,
-						0
-					],
-					[
 						122142.857142857,
 						5,
 						0
@@ -3687,29 +3677,27 @@
 						0
 					],
 					[
-						122892.857142857,
-						1,
-						0
-					],
-					[
-						122785.714285714,
-						6,
-						0
-					],
-					[
-						123000,
-						4,
-						0
-					],
-					[
 						123000,
 						2,
 						0
 					],
 					[
-						123321.428571428,
-						7,
-						0
+						123000,
+						6,
+						0,
+						"Slash Notes"
+					],
+					[
+						122785.714285714,
+						6,
+						0,
+						"Slash Notes"
+					],
+					[
+						122571.428571428,
+						6,
+						0,
+						"Slash Notes"
 					]
 				],
 				"typeOfSection": 0,
@@ -5492,6 +5480,26 @@
 			},
 			{
 				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 140,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 140
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
@@ -5500,10 +5508,12 @@
 				"mustHitSection": true
 			}
 		],
-		"player3": "gf",
+		"gfVersion": "gf_sakona",
+		"events": [],
+		"player3": null,
 		"song": "Vengeance",
-		"stage": "temple1",
 		"validScore": true,
+		"stage": "temple1",
 		"sections": 0,
 		"needsVoices": true,
 		"speed": 2.1,
