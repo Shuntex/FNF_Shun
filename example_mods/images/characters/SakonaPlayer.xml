@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SakonaPlayer.png">
+	<SubTexture name="SAKO Idle0000" x="0" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Idle0001" x="1504" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Idle0002" x="3008" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Idle0003" x="4512" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Idle0004" x="6016" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Idle0005" x="7520" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Idle0006" x="9024" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Right0000" x="0" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Right0001" x="1504" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Right0002" x="3008" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Right0003" x="4512" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Right0004" x="6016" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Down0000" x="7520" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Down0001" x="9024" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Down0002" x="0" y="2016" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Down0003" x="1504" y="2016" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Down0004" x="3008" y="2016" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Up0000" x="4512" y="2016" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Up0001" x="6016" y="2016" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Up0002" x="7520" y="2016" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Up0003" x="9024" y="2016" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Up0004" x="0" y="3024" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Left0000" x="1504" y="3024" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Left0001" x="3008" y="3024" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Left0002" x="4512" y="3024" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Left0003" x="6016" y="3024" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Left0004" x="7520" y="3024" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO dies0000" x="9024" y="3024" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO dies0001" x="0" y="4032" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO dies0002" x="1504" y="4032" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO dies0003" x="3008" y="4032" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO dies0004" x="4512" y="4032" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO dies0005" x="6016" y="4032" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO dies0006" x="7520" y="4032" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO dies0007" x="9024" y="4032" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO dies0008" x="0" y="5040" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO dies0009" x="1504" y="5040" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO dies0010" x="3008" y="5040" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO dies0011" x="4512" y="5040" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO dies0012" x="6016" y="5040" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO dies0013" x="7520" y="5040" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO dies0014" x="9024" y="5040" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO dies0015" x="0" y="6048" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO dies0016" x="1504" y="6048" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO dies0017" x="3008" y="6048" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Dead Loop0000" x="4512" y="6048" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Dead Loop0001" x="6016" y="6048" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Dead Loop0002" x="7520" y="6048" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Dead Confirm0000" x="9024" y="6048" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Dead Confirm0001" x="0" y="7056" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Dead Confirm0002" x="1504" y="7056" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="SAKO Dead Confirm0003" x="3008" y="7056" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="Right MISS0000" x="4512" y="7056" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="Right MISS0001" x="6016" y="7056" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="Down MISS0000" x="7520" y="7056" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="Down MISS0001" x="9024" y="7056" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="Up MISS0000" x="0" y="8064" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="Up MISS0001" x="1504" y="8064" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="Left MISS0000" x="3008" y="8064" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+	<SubTexture name="Left MISS0001" x="4512" y="8064" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+</TextureAtlas>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sky.png">
+	<SubTexture name="SkyAnim0000" x="0" y="0" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0001" x="5404" y="0" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0002" x="10808" y="0" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0003" x="16212" y="0" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0004" x="0" y="2084" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0005" x="5404" y="2084" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0006" x="10808" y="2084" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0007" x="16212" y="2084" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0008" x="0" y="4168" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0009" x="5404" y="4168" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0010" x="10808" y="4168" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0011" x="16212" y="4168" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0012" x="0" y="6252" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0013" x="5404" y="6252" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0014" x="10808" y="6252" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0015" x="16212" y="6252" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0016" x="0" y="8336" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0017" x="5404" y="8336" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0018" x="10808" y="8336" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0019" x="16212" y="8336" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0020" x="0" y="10420" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0021" x="5404" y="10420" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+	<SubTexture name="SkyAnim0022" x="10808" y="10420" width="5404" height="2084" frameX="0" frameY="0" frameWidth="5404" frameHeight="2084" />
+</TextureAtlas>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Shun_And_Sako_Dialogue.png">
+	<SubTexture name="ShunTalkLOOP0000" x="0" y="0" width="1788" height="996" frameX="0" frameY="0" frameWidth="1788" frameHeight="996" />
+	<SubTexture name="ShunTalkLOOP0001" x="0" y="0" width="1788" height="996" frameX="0" frameY="0" frameWidth="1788" frameHeight="996" />
+	<SubTexture name="ShunTalkLOOP0002" x="1788" y="0" width="1788" height="996" frameX="0" frameY="0" frameWidth="1788" frameHeight="996" />
+	<SubTexture name="ShunTalkLOOP0003" x="1788" y="0" width="1788" height="996" frameX="0" frameY="0" frameWidth="1788" frameHeight="996" />
+	<SubTexture name="ShunTalkLOOP0004" x="0" y="996" width="1788" height="996" frameX="0" frameY="0" frameWidth="1788" frameHeight="996" />
+	<SubTexture name="ShunTalkLOOP0005" x="0" y="996" width="1788" height="996" frameX="0" frameY="0" frameWidth="1788" frameHeight="996" />
+	
+	<SubTexture name="ShunTalkSTOP0000" x="0" y="996" width="1788" height="996" frameX="0" frameY="0" frameWidth="1788" frameHeight="996" />
+	
+	<SubTexture name="SakoTalkLOOP0000" x="1788" y="996" width="1788" height="996" frameX="0" frameY="0" frameWidth="1788" frameHeight="996" />
+	<SubTexture name="SakoTalkLOOP0001" x="1788" y="996" width="1788" height="996" frameX="0" frameY="0" frameWidth="1788" frameHeight="996" />
+	<SubTexture name="SakoTalkLOOP0002" x="0" y="1992" width="1788" height="996" frameX="0" frameY="0" frameWidth="1788" frameHeight="996" />
+	<SubTexture name="SakoTalkLOOP0003" x="0" y="1992" width="1788" height="996" frameX="0" frameY="0" frameWidth="1788" frameHeight="996" />
+	<SubTexture name="SakoTalkLOOP0004" x="1788" y="1992" width="1788" height="996" frameX="0" frameY="0" frameWidth="1788" frameHeight="996" />
+	<SubTexture name="SakoTalkLOOP0005" x="1788" y="1992" width="1788" height="996" frameX="0" frameY="0" frameWidth="1788" frameHeight="996" />
+	
+	<SubTexture name="SakoTalkSTOP0000" x="1788" y="1992" width="1788" height="996" frameX="0" frameY="0" frameWidth="1788" frameHeight="996" />
+</TextureAtlas>

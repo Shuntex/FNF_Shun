@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				15,
+				33
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "Sakona_exe Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				29
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sakona_exe Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				33
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sakona_exe Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				30
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "Sakona_exe Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				26
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sakona_exe Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sakona_exe",
+	"position": [
+		-680,
+		-190
+	],
+	"healthicon": "icon-sakona-exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		20,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				33
+			],
+			"anim": "idle",
+			"fps": 28,
+			"name": "SakoIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				55
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SakoUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SakoDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				15,
+				33
+			],
+			"loop": true,
+			"fps": 34,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "SakoLoopingIdle"
+		},
+		{
+			"offsets": [
+				-39,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SakoLeft"
+		},
+		{
+			"offsets": [
+				39,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SakoRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Burning_Sakona",
+	"position": [
+		-900,
+		-580
+	],
+	"healthicon": "icon-sakona",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

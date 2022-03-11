@@ -1,0 +1,165 @@
+{
+	"dialogue": [
+		{
+			"expression": "cryingPlayer",
+			"text": "..........",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sakonaPlayer"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shuntex",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ". . ."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shuntex",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sakona... I am so sorry..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sakonaPlayer",
+			"boxState": "normal",
+			"expression": "scaredPlayer",
+			"text": "S-Shun... Are you okay now? How do you feel?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shuntex",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Relieved, I guess... Sorry if i hurt-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Shun-Sako",
+			"boxState": "angry",
+			"expression": "ShunTalk",
+			"text": "Grk-!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Shun-Sako",
+			"boxState": "angry",
+			"expression": "SakoTalk",
+			"text": "I am SO glad you are feeling better!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Shun-Sako",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Man, that took an immediate turn..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sakona",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sorry.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Shuntex",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Its okay."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shuntex",
+			"boxState": "normal",
+			"expression": "talk3",
+			"text": "So.. now what? Whered that kid go?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sakona",
+			"boxState": "normal",
+			"expression": "scared",
+			"text": "I think we should probaby rest for now, you're probably exhausted..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shuntex",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Grk!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shuntex",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I think my back is killing me more than anything."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sakona",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "No worries! Do you need me to do anything?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shuntex",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "Uhm...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shuntex",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I suppose a drink for the two of us. After this whole mess though, I feel like I should be the one making them."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sakona",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Don't worry! It's perfectly fine!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shuntex",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "Alright..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sakona",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Heheh~!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shuntex",
+			"boxState": "normal",
+			"expression": "wtf",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shuntex",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "When that kid comes back, though.. I wont go as easy on him next time."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sakona",
+			"boxState": "normal",
+			"expression": "scared",
+			"text": "Erm... if you say so... just promise me you wont stress yourself about it again..."
+		}
+	]
+}

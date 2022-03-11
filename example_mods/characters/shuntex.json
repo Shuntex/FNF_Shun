@@ -1,0 +1,131 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				360,
+				520
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "transform",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				5,
+				6,
+				5,
+				6,
+				5,
+				6,
+				5,
+				6,
+				5,
+				6,
+				5,
+				6,
+				5,
+				6,
+				5,
+				6,
+				5,
+				6,
+				5,
+				6
+			],
+			"name": "ShuntexTransform"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				5,
+				6
+			],
+			"name": "ShuntexIdle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ShuntexUp"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ShuntexDown"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ShuntexRight"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ShuntexLeft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "idle",
+			"loop": false,
+			"name": "ShuntexIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Shuntex",
+	"position": [
+		-820,
+		-690
+	],
+	"healthicon": "icon-shuntex",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		255
+	],
+	"camera_position": [
+		140,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

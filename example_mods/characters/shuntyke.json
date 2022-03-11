@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-197,
+				-3
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "SHUNTYKE_Up"
+		},
+		{
+			"offsets": [
+				-220,
+				30
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "SHUNTYKE_Down"
+		},
+		{
+			"offsets": [
+				-180,
+				4
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "SHUNTYKE_Right"
+		},
+		{
+			"offsets": [
+				-100,
+				27
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "SHUNTYKE_Left"
+		},
+		{
+			"offsets": [
+				-197,
+				-3
+			],
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 32,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "SHUNTYKE_Up"
+		},
+		{
+			"offsets": [
+				-220,
+				30
+			],
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 32,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "SHUNTYKE_Down"
+		},
+		{
+			"offsets": [
+				-180,
+				4
+			],
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 32,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "SHUNTYKE_Right"
+		},
+		{
+			"offsets": [
+				-100,
+				27
+			],
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 32,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "SHUNTYKE_Left"
+		},
+		{
+			"offsets": [
+				-71,
+				16
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"fps": 20,
+			"anim": "idle",
+			"loop": true,
+			"name": "SHUNTYKE_Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SHUNTYKE",
+	"position": [
+		-2290,
+		-740
+	],
+	"healthicon": "icon-shuntyke",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		255
+	],
+	"camera_position": [
+		70,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

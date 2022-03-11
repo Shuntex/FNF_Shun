@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"expression": "scared",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sakona"
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "scared",
+			"text": "Let's never speak of this...",
+			"boxState": "normal",
+			"portrait": "sakona",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "Bep...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Yo, Sako. I'm back.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shuntex"
+		},
+		{
+			"expression": "scaredPlayer",
+			"text": "!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sakonaPlayer"
+		},
+		{
+			"expression": "SakoTalk",
+			"text": "Shun!! Hi~!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "Shun-Sako"
+		},
+		{
+			"expression": "wtf",
+			"text": "Woah woah, slow down there!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "Shun-Sako"
+		},
+		{
+			"expression": "talk",
+			"text": "I literally just got back from dealing with a largespread crisis, so I'm a little worn.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shuntex"
+		},
+		{
+			"expression": "scaredPlayer",
+			"text": "S-Sorry! Are you okay?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sakonaPlayer"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm fine...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shuntex"
+		},
+		{
+			"expression": "angry",
+			"text": "Bep! Bop bap?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk2",
+			"text": "Wait, you want to rap battle with me? Despite me literally saying I returned from fending off baddies, and said I was exhausted...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shuntex"
+		},
+		{
+			"expression": "talk",
+			"text": "Bep.. bop?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.3,
+			"portrait": "shuntex",
+			"boxState": "normal",
+			"expression": "wtf",
+			"text": ". . ."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shuntex",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fine, fine. We can rap battle."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shuntex",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "Just don't expect me to go easy on you. Got it?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sakona",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Good luck Shun~!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sakona",
+			"boxState": "normal",
+			"expression": "scared",
+			"text": "Don't strain yourself please..."
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "Silent"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "Silent"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Gf_Temple_Assets",
+	"position": [
+		-580,
+		-310
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

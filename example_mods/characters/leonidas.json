@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				311,
+				67
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LeonidasLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				280,
+				70
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "LeonidasRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				377,
+				131
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "LeonidasUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				310,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "LeonidasDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "",
+			"indices": [],
+			"name": ""
+		},
+		{
+			"offsets": [
+				310,
+				70
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "LeonidasIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Leonidas",
+	"position": [
+		-310,
+		10
+	],
+	"healthicon": "icon-leonidas",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		-160,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

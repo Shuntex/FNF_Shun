@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Leonidas.png">
+	<SubTexture name="LeonidasIdle0000" x="0" y="0" width="3004" height="1604" frameX="1200" frameY="800" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasIdle0001" x="3004" y="0" width="3004" height="1604" frameX="1200" frameY="800" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasIdle0002" x="6008" y="0" width="3004" height="1604" frameX="1200" frameY="800" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasIdle0003" x="9012" y="0" width="3004" height="1604" frameX="1200" frameY="800" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasIdle0004" x="0" y="1604" width="3004" height="1604" frameX="1200" frameY="800" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasIdle0005" x="0" y="1604" width="3004" height="1604" frameX="1200" frameY="800" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasIdle0006" x="0" y="1604" width="3004" height="1604" frameX="1200" frameY="800" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasIdle0007" x="0" y="1604" width="3004" height="1604" frameX="1200" frameY="800" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasIdle0008" x="0" y="1604" width="3004" height="1604" frameX="1200" frameY="800" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasIdle0009" x="0" y="1604" width="3004" height="1604" frameX="1200" frameY="800" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasIdle0010" x="0" y="1604" width="3004" height="1604" frameX="1200" frameY="800" frameWidth="609" frameHeight="358" />
+	
+	<SubTexture name="LeonidasRight0000" x="3004" y="1604" width="3004" height="1604" frameX="1200" frameY="802" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasRight0001" x="6008" y="1604" width="3004" height="1604" frameX="1200" frameY="802" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasRight0002" x="9012" y="1604" width="3004" height="1604" frameX="1200" frameY="802" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasRight0003" x="0" y="3208" width="3004" height="1604" frameX="1200" frameY="802" frameWidth="609" frameHeight="358" />
+	
+	<SubTexture name="LeonidasLeft0000" x="3004" y="3208" width="3004" height="1604" frameX="1200" frameY="801" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasLeft0001" x="6008" y="3208" width="3004" height="1604" frameX="1200" frameY="801" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasLeft0002" x="9012" y="3208" width="3004" height="1604" frameX="1200" frameY="801" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasLeft0003" x="0" y="4812" width="3004" height="1604" frameX="1200" frameY="801" frameWidth="609" frameHeight="358" />
+	
+	<SubTexture name="LeonidasUp0000" x="3004" y="4812" width="3004" height="1604" frameX="1200" frameY="725" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasUp0001" x="6008" y="4812" width="3004" height="1604" frameX="1200" frameY="725" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasUp0002" x="9012" y="4812" width="3004" height="1604" frameX="1200" frameY="725" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasUp0003" x="0" y="6416" width="3004" height="1604" frameX="1200" frameY="725" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasUp0004" x="3004" y="6416" width="3004" height="1604" frameX="1200" frameY="725" frameWidth="609" frameHeight="358" />
+	
+	<SubTexture name="LeonidasDown0000" x="6008" y="6416" width="3004" height="1604" frameX="1200" frameY="865" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasDown0001" x="9012" y="6416" width="3004" height="1604" frameX="1200" frameY="865" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasDown0002" x="0" y="8020" width="3004" height="1604" frameX="1200" frameY="865" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasDown0003" x="3004" y="8020" width="3004" height="1604" frameX="1200" frameY="865" frameWidth="609" frameHeight="358" />
+	<SubTexture name="LeonidasDown0004" x="6008" y="8020" width="3004" height="1604" frameX="1200" frameY="865" frameWidth="609" frameHeight="358" />
+</TextureAtlas>

@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-17,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "SHUNTYKE_Up"
+		},
+		{
+			"offsets": [
+				-20,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "SHUNTYKE_Down"
+		},
+		{
+			"offsets": [
+				-17,
+				-3
+			],
+			"loop": true,
+			"fps": 32,
+			"anim": "singUP-loop",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "SHUNTYKE_Up"
+		},
+		{
+			"offsets": [
+				-20,
+				30
+			],
+			"loop": true,
+			"fps": 32,
+			"anim": "singDOWN-loop",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "SHUNTYKE_Down"
+		},
+		{
+			"offsets": [
+				-131,
+				16
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "SHUNTYKE_Idle"
+		},
+		{
+			"offsets": [
+				-90,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "SHUNTYKE_Left"
+		},
+		{
+			"offsets": [
+				-10,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "SHUNTYKE_Right"
+		},
+		{
+			"offsets": [
+				-90,
+				24
+			],
+			"loop": true,
+			"fps": 32,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "SHUNTYKE_Left"
+		},
+		{
+			"offsets": [
+				-20,
+				7
+			],
+			"loop": true,
+			"fps": 32,
+			"anim": "singLEFT-loop",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "SHUNTYKE_Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SHUNTYKE",
+	"position": [
+		-1850,
+		-650
+	],
+	"healthicon": "icon-shuntyke",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		255
+	],
+	"camera_position": [
+		70,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

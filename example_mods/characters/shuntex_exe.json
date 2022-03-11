@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-108,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ShuntexUp"
+		},
+		{
+			"offsets": [
+				-60,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ShuntexDown"
+		},
+		{
+			"offsets": [
+				-80,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ShuntexRight"
+		},
+		{
+			"offsets": [
+				-60,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ShuntexLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-58,
+				16
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "ShuntexIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"indices": [
+				0,
+				4
+			],
+			"fps": 30,
+			"anim": "hey",
+			"loop": true,
+			"name": "ShuntexRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Shuntex_exe",
+	"position": [
+		-610,
+		-610
+	],
+	"healthicon": "icon-shuntex-exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		95
+	],
+	"camera_position": [
+		260,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

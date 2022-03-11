@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "sly",
+			"text": "Bep bop!!",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "Way to go Boyfriend!!",
+			"boxState": "normal",
+			"portrait": "sakona",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, will you two just shut it!?",
+			"boxState": "angry",
+			"portrait": "leonidas",
+			"speed": 0.05
+		},
+		{
+			"expression": "scared",
+			"text": "W-what?",
+			"boxState": "angry",
+			"portrait": "sakona",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "B-Bep?",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "leonidas",
+			"boxState": "angry",
+			"expression": "sly",
+			"text": "Farewell, 'Boyfriend'."
+		}
+	]
+}

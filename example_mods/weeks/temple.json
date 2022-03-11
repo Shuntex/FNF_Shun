@@ -1,0 +1,49 @@
+{
+	"storyName": "THE VERY EDGY FLOOF",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "shun",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Crimson Roses",
+			"sakona",
+			[
+				255,
+				0,
+				195
+			]
+		],
+		[
+			"vengeance",
+			"shuntex",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"Retribution",
+			"shuntex",
+			[
+				0,
+				135,
+				135
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "temple"
+}

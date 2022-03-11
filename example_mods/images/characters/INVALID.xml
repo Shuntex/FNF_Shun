@@ -1,0 +1,29 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="INVALID.png">
+	<SubTexture name="INV_Idle0000" x="0" y="0" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Idle0001" x="3004" y="0" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Idle0002" x="6008" y="0" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Idle0003" x="9012" y="0" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Idle0004" x="12016" y="0" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Idle0005" x="0" y="2508" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Left0000" x="3004" y="2508" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Left0001" x="6008" y="2508" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Left0002" x="9012" y="2508" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Left0003" x="12016" y="2508" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Left0004" x="0" y="5016" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Down0000" x="3004" y="5016" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Down0001" x="6008" y="5016" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Down0002" x="9012" y="5016" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Down0003" x="12016" y="5016" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Down0004" x="0" y="7524" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Up0000" x="3004" y="7524" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Up0001" x="6008" y="7524" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Up0002" x="9012" y="7524" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Up0003" x="12016" y="7524" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Up0004" x="0" y="10032" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Right0000" x="3004" y="10032" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Right0001" x="6008" y="10032" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Right0002" x="9012" y="10032" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Right0003" x="12016" y="10032" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+	<SubTexture name="INV_Right0004" x="0" y="12540" width="3004" height="2508" frameX="0" frameY="0" frameWidth="3004" frameHeight="2508" />
+</TextureAtlas>

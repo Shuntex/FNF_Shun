@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "wtf",
+			"text": ". . . . . .",
+			"boxState": "normal",
+			"portrait": "shuntex",
+			"speed": 0.4
+		},
+		{
+			"expression": "scared",
+			"text": "Shun..? Are you okay..?",
+			"boxState": "normal",
+			"portrait": "sakona",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Beep bop?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "... Just start the next song.",
+			"boxState": "normal",
+			"portrait": "shuntex",
+			"speed": 0.05
+		},
+		{
+			"expression": "scared",
+			"text": "A-Are you sure? Did you-",
+			"boxState": "normal",
+			"portrait": "sakona",
+			"speed": 0.05
+		},
+		{
+			"expression": "angry",
+			"text": "I SAID START THE SONG.",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "shuntex"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sakona",
+			"boxState": "angry",
+			"expression": "shock",
+			"text": "EEP-!!"
+		}
+	]
+}

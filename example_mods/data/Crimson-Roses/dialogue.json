@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Bep bop?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Hello.. can i help you?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sakona"
+		},
+		{
+			"expression": "shocked",
+			"text": "Bep!?",
+			"boxState": "angry",
+			"speed": 0.015,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shock",
+			"text": "Ah! S-Sorry for startling you...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sakona"
+		},
+		{
+			"expression": "talk",
+			"text": "B-Beep bop bap?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "I'm Sakona Kurino, princess of the Kitsune Clan.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sakona"
+		},
+		{
+			"expression": "talk",
+			"text": "Boop? Bep bap?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Huh? You want to rap battle with me?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sakona"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep! Bop bap?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "I mean...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sakona"
+		},
+		{
+			"expression": "happy",
+			"text": "Oh what the heck, I have time to kill... Lets do it!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sakona"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Bep!"
+		}
+	]
+}

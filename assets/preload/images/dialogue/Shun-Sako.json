@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		-190
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "ShunTalkLOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ShunTalkSTOP",
+			"anim": "ShunTalk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "SakoTalkLOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "SakoTalkSTOP",
+			"anim": "SakoTalk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Shun_And_Sako_Dialogue"
+}

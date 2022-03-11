@@ -1,0 +1,39 @@
+{
+	"storyName": "MIX",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"endless-mix",
+			"sakona",
+			[
+				0,
+				0,
+				60
+			]
+		],
+		[
+			"fallen",
+			"dad",
+			[
+				0,
+				0,
+				60
+			]
+		]
+	],
+	"weekName": "mixes"
+}

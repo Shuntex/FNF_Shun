@@ -1,0 +1,40 @@
+{
+	"storyName": "ERROR",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "virus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"INT-OVERFLOW",
+			"leonidas",
+			[
+				0,
+				0,
+				120
+			]
+		],
+		[
+			"Red-Alert",
+			"invalid",
+			[
+				120,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "virus"
+}

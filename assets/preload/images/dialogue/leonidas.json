@@ -1,0 +1,37 @@
+{
+	"position": [
+		-830,
+		-220
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "Leonidas_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				2
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "Leonidas Normal STOP",
+			"loop_name": "LeonidasNormal LOOP"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "sly",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "LeonidasCunning LOOP",
+			"idle_name": "LeonidasCunning STOP"
+		}
+	]
+}

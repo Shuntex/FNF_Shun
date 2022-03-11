@@ -1,0 +1,97 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-54,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FallenShun_Left"
+		},
+		{
+			"offsets": [
+				-100,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FallenShun_Right"
+		},
+		{
+			"offsets": [
+				-44,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FallenShun_Down"
+		},
+		{
+			"offsets": [
+				-11,
+				-9
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FallenShun_Up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				2,
+				3,
+				4
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "FallenShun_Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				2,
+				3,
+				4
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "FallenShun_Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Fallen",
+	"position": [
+		-1150,
+		-610
+	],
+	"healthicon": "icon-fallen",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		255
+	],
+	"camera_position": [
+		70,
+		460
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

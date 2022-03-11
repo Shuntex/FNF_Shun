@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "GF_Dance_Left"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "GF_Dance_Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gf_Temple_Assets",
+	"position": [
+		-580,
+		-310
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

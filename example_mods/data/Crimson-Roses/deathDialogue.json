@@ -1,0 +1,11 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "sakona",
+			"boxState": "normal",
+			"expression": "shock",
+			"text": "Oh my god I am so sorry!! I promise I'll go a bit easier on you..."
+		}
+	]
+}

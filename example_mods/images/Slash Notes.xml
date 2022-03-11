@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Slash Notes.png">
+	<SubTexture name="purple0000" x="0" y="0" width="157" height="160" frameX="0" frameY="0" frameWidth="157" frameHeight="160" />
+	<SubTexture name="purple hold piece0000" x="0" y="228" width="54" height="47" frameX="0" frameY="0" frameWidth="54" frameHeight="47" />
+	<SubTexture name="purple hold end0000" x="54" y="228" width="54" height="68" frameX="0" frameY="0" frameWidth="54" frameHeight="68" />
+	
+	<SubTexture name="blue0000" x="157" y="0" width="160" height="157" frameX="0" frameY="0" frameWidth="160" frameHeight="157" />
+	<SubTexture name="blue hold end0000" x="54" y="160" width="54" height="68" frameX="0" frameY="0" frameWidth="54" frameHeight="68" />
+	<SubTexture name="blue hold piece0000" x="108" y="160" width="54" height="47" frameX="0" frameY="0" frameWidth="54" frameHeight="47" />
+	
+	<SubTexture name="green hold end0000" x="162" y="160" width="54" height="68" frameX="0" frameY="0" frameWidth="54" frameHeight="68" />
+	<SubTexture name="green0000" x="317" y="0" width="160" height="157" frameX="0" frameY="0" frameWidth="160" frameHeight="157" />
+	<SubTexture name="green hold piece0000" x="0" y="160" width="54" height="47" frameX="0" frameY="0" frameWidth="54" frameHeight="47" />
+	
+	<SubTexture name="red0000" x="477" y="0" width="157" height="160" frameX="0" frameY="0" frameWidth="157" frameHeight="160" />
+	<SubTexture name="red hold piece0000" x="108" y="228" width="54" height="47" frameX="0" frameY="0" frameWidth="54" frameHeight="47" />
+	<SubTexture name="red hold end0000" x="162" y="228" width="54" height="68" frameX="0" frameY="0" frameWidth="54" frameHeight="68" />
+</TextureAtlas>

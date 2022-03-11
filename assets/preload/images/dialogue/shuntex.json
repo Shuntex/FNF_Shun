@@ -1,0 +1,115 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-270,
+		-170
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				100,
+				0
+			],
+			"idle_offsets": [
+				100,
+				2
+			],
+			"loop_name": "ShunNormalLOOP",
+			"idle_name": "ShunNormalSTOP"
+		},
+		{
+			"idle_offsets": [
+				130,
+				0
+			],
+			"anim": "angry",
+			"loop_offsets": [
+				130,
+				0
+			],
+			"idle_name": "FallenMadSTOP",
+			"loop_name": "FallenMadLOOP"
+		},
+		{
+			"idle_offsets": [
+				130,
+				0
+			],
+			"anim": "wtf",
+			"loop_offsets": [
+				130,
+				0
+			],
+			"idle_name": "ShunStill",
+			"loop_name": "ShunStill"
+		},
+		{
+			"loop_offsets": [
+				40,
+				0
+			],
+			"anim": "talk1",
+			"idle_offsets": [
+				40,
+				0
+			],
+			"loop_name": "ShunShockLOOP",
+			"idle_name": "ShunShockSTOP"
+		},
+		{
+			"loop_offsets": [
+				130,
+				0
+			],
+			"anim": "talk2",
+			"idle_offsets": [
+				130,
+				0
+			],
+			"loop_name": "ShunWhat...LOOP",
+			"idle_name": "ShunWhat...STOP"
+		},
+		{
+			"loop_offsets": [
+				110,
+				0
+			],
+			"anim": "talk3",
+			"idle_offsets": [
+				110,
+				0
+			],
+			"loop_name": "ShunNagLOOP",
+			"idle_name": "ShunNagSTOP"
+		},
+		{
+			"loop_name": "ShunScreamLOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ShunScreamSTOP",
+			"anim": "scream",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "FallenAngryLOOP",
+			"idle_offsets": [
+				210,
+				20
+			],
+			"idle_name": "FallenAngrySTOP",
+			"anim": "angryier",
+			"loop_offsets": [
+				210,
+				20
+			]
+		}
+	],
+	"image": "Shuntex_Dialogue"
+}

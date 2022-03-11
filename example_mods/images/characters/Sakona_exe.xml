@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sakona_exe.png"><SubTexture name="Sakona_exe Idle0000" x="0" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Idle0001" x="1504" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Idle0002" x="3008" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Idle0003" x="4512" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Idle0004" x="6016" y="0" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Idle0005" x="0" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Idle0006" x="1504" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Idle0007" x="3008" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Idle0008" x="4512" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Idle0009" x="6016" y="1008" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Idle0010" x="0" y="2016" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Idle0011" x="1504" y="2016" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Left0000" x="3008" y="2016" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Left0001" x="4512" y="2016" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Left0002" x="6016" y="2016" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Left0003" x="0" y="3024" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Left0004" x="1504" y="3024" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Down0000" x="3008" y="3024" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Down0001" x="4512" y="3024" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Down0002" x="6016" y="3024" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Down0003" x="0" y="4032" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Down0004" x="1504" y="4032" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Down0005" x="3008" y="4032" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Down0006" x="4512" y="4032" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Down0007" x="6016" y="4032" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Up0000" x="0" y="5040" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Up0001" x="1504" y="5040" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Up0002" x="3008" y="5040" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Up0003" x="4512" y="5040" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Up0004" x="6016" y="5040" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Right0000" x="0" y="6048" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Right0001" x="1504" y="6048" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Right0002" x="3008" y="6048" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Right0003" x="4512" y="6048" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+<SubTexture name="Sakona_exe Right0004" x="6016" y="6048" width="1504" height="1008" frameX="0" frameY="0" frameWidth="1504" frameHeight="1008" />
+</TextureAtlas>

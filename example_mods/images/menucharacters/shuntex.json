@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Shuntex idle",
+	"idle_anim": "M Shuntex idle",
+	"position": [
+		191,
+		27
+	],
+	"scale": 1,
+	"image": "Menu_Shuntex"
+}

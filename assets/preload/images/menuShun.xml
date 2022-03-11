@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menuShun.png">
+	<SubTexture name="idleDance0000" x="0" y="0" width="1204" height="904" frameX="300" frameY="140" frameWidth="1204" frameHeight="904" />
+	<SubTexture name="idleDance0001" x="1204" y="0" width="1204" height="904" frameX="300" frameY="140" frameWidth="1204" frameHeight="904" />
+	<SubTexture name="idleDance0002" x="0" y="904" width="1204" height="904" frameX="300" frameY="140" frameWidth="1204" frameHeight="904" />
+	<SubTexture name="idleDance0003" x="1204" y="904" width="1204" height="904" frameX="300" frameY="140" frameWidth="1204" frameHeight="904" />
+	<SubTexture name="idleDance0004" x="0" y="1808" width="1204" height="904" frameX="300" frameY="140" frameWidth="1204" frameHeight="904" />
+	<SubTexture name="idleDance0005" x="1204" y="1808" width="1204" height="904" frameX="300" frameY="140" frameWidth="1204" frameHeight="904" />
+</TextureAtlas>

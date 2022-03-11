@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="icon_burning.png">
+	<SubTexture name="Burning Icon0000" x="0" y="0" width="154" height="154" frameX="0" frameY="0" frameWidth="154" frameHeight="154" />
+	<SubTexture name="Burning Icon0001" x="154" y="0" width="154" height="154" frameX="0" frameY="0" frameWidth="154" frameHeight="154" />
+	<SubTexture name="Burning Icon0002" x="0" y="154" width="154" height="154" frameX="0" frameY="0" frameWidth="154" frameHeight="154" />
+	<SubTexture name="Burning Reverse0000" x="154" y="154" width="154" height="154" frameX="0" frameY="0" frameWidth="154" frameHeight="154" />
+	<SubTexture name="Burning Reverse0001" x="0" y="308" width="154" height="154" frameX="0" frameY="0" frameWidth="154" frameHeight="154" />
+	<SubTexture name="Burning Reverse0002" x="154" y="308" width="154" height="154" frameX="0" frameY="0" frameWidth="154" frameHeight="154" />
+</TextureAtlas>

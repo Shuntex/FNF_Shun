@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sako_Notes.png">
+	<SubTexture name="purple0000" x="0" y="0" width="175" height="273" frameX="0" frameY="0" frameWidth="175" frameHeight="273" />
+	<SubTexture name="purple0001" x="175" y="0" width="175" height="273" frameX="0" frameY="0" frameWidth="175" frameHeight="273" />
+	<SubTexture name="purple0002" x="350" y="0" width="175" height="273" frameX="0" frameY="0" frameWidth="175" frameHeight="273" />
+	<SubTexture name="purple0003" x="525" y="0" width="175" height="273" frameX="0" frameY="0" frameWidth="175" frameHeight="273" />
+	<SubTexture name="purple0004" x="0" y="273" width="175" height="273" frameX="0" frameY="0" frameWidth="175" frameHeight="273" />
+	<SubTexture name="blue0000" x="175" y="273" width="175" height="273" frameX="0" frameY="0" frameWidth="175" frameHeight="273" />
+	<SubTexture name="blue0001" x="350" y="273" width="175" height="273" frameX="0" frameY="0" frameWidth="175" frameHeight="273" />
+	<SubTexture name="blue0002" x="525" y="273" width="175" height="273" frameX="0" frameY="0" frameWidth="175" frameHeight="273" />
+	<SubTexture name="blue0003" x="0" y="546" width="175" height="273" frameX="0" frameY="0" frameWidth="175" frameHeight="273" />
+	<SubTexture name="blue0004" x="175" y="546" width="175" height="273" frameX="0" frameY="0" frameWidth="175" frameHeight="273" />
+	<SubTexture name="red0000" x="350" y="546" width="175" height="273" frameX="0" frameY="0" frameWidth="175" frameHeight="273" />
+	<SubTexture name="red0001" x="525" y="546" width="175" height="273" frameX="0" frameY="0" frameWidth="175" frameHeight="273" />
+	<SubTexture name="red0002" x="0" y="819" width="175" height="273" frameX="0" frameY="0" frameWidth="175" frameHeight="273" />
+	<SubTexture name="red0003" x="175" y="819" width="175" height="273" frameX="0" frameY="0" frameWidth="175" frameHeight="273" />
+	<SubTexture name="red0004" x="350" y="819" width="175" height="273" frameX="0" frameY="0" frameWidth="175" frameHeight="273" />
+	<SubTexture name="green0000" x="525" y="819" width="175" height="273" frameX="0" frameY="0" frameWidth="175" frameHeight="273" />
+	<SubTexture name="green0001" x="0" y="1092" width="175" height="273" frameX="0" frameY="0" frameWidth="175" frameHeight="273" />
+	<SubTexture name="green0002" x="175" y="1092" width="175" height="273" frameX="0" frameY="0" frameWidth="175" frameHeight="273" />
+	<SubTexture name="green0003" x="350" y="1092" width="175" height="273" frameX="0" frameY="0" frameWidth="175" frameHeight="273" />
+	<SubTexture name="green0004" x="525" y="1092" width="175" height="273" frameX="0" frameY="0" frameWidth="175" frameHeight="273" />
+</TextureAtlas>

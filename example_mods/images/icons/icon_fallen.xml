@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="icon_fallen.png">
+	<SubTexture name="shun icon0000" x="0" y="0" width="154" height="154" frameX="5" frameY="20" frameWidth="154" frameHeight="154" />
+	<SubTexture name="shun icon0001" x="0" y="154" width="154" height="154" frameX="5" frameY="20" frameWidth="154" frameHeight="154" />
+	<SubTexture name="shun icon0002" x="0" y="308" width="154" height="154" frameX="5" frameY="20" frameWidth="154" frameHeight="154" />
+	
+	<SubTexture name="shun icon losing0000" x="0" y="0" width="154" height="154" frameX="5" frameY="20" frameWidth="154" frameHeight="154" />
+	<SubTexture name="shun icon losing0001" x="0" y="154" width="154" height="154" frameX="5" frameY="20" frameWidth="154" frameHeight="154" />
+	<SubTexture name="shun icon losing0002" x="0" y="308" width="154" height="154" frameX="5" frameY="20" frameWidth="154" frameHeight="154" />
+	
+	<SubTexture name="shun icon winning0000" x="0" y="0" width="154" height="154" frameX="5" frameY="20" frameWidth="154" frameHeight="154" />
+	<SubTexture name="shun icon winning0001" x="0" y="154" width="154" height="154" frameX="5" frameY="20" frameWidth="154" frameHeight="154" />
+	<SubTexture name="shun icon winning0002" x="0" y="308" width="154" height="154" frameX="5" frameY="20" frameWidth="154" frameHeight="154" />
+</TextureAtlas>

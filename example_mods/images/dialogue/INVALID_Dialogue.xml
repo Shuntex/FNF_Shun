@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="INVALID_Dialogue.png">
+	<SubTexture name="INVALID_TALK_LOOP0000" x="0" y="0" width="1594" height="1545" frameX="0" frameY="0" frameWidth="1594" frameHeight="1545" />
+	<SubTexture name="INVALID_TALK_LOOP0001" x="0" y="0" width="1594" height="1545" frameX="0" frameY="0" frameWidth="1594" frameHeight="1545" />
+	<SubTexture name="INVALID_TALK_LOOP0002" x="1594" y="0" width="1594" height="1545" frameX="0" frameY="0" frameWidth="1594" frameHeight="1545" />
+	<SubTexture name="INVALID_TALK_LOOP0003" x="1594" y="0" width="1594" height="1545" frameX="0" frameY="0" frameWidth="1594" frameHeight="1545" />
+	<SubTexture name="INVALID_TALK_LOOP0004" x="0" y="1545" width="1594" height="1545" frameX="0" frameY="0" frameWidth="1594" frameHeight="1545" />
+	<SubTexture name="INVALID_TALK_LOOP0005" x="0" y="1545" width="1594" height="1545" frameX="0" frameY="0" frameWidth="1594" frameHeight="1545" />
+	<SubTexture name="INVALID_TALK_STOP0000" x="0" y="1545" width="1594" height="1545" frameX="0" frameY="0" frameWidth="1594" frameHeight="1545" />
+	<SubTexture name="INVALID_TALK_STOP0001" x="0" y="1545" width="1594" height="1545" frameX="0" frameY="0" frameWidth="1594" frameHeight="1545" />
+	<SubTexture name="INVALID_TALK_HAND_LOOP0000" x="1594" y="1545" width="1594" height="1545" frameX="0" frameY="0" frameWidth="1594" frameHeight="1545" />
+	<SubTexture name="INVALID_TALK_HAND_LOOP0001" x="1594" y="1545" width="1594" height="1545" frameX="0" frameY="0" frameWidth="1594" frameHeight="1545" />
+	<SubTexture name="INVALID_TALK_HAND_LOOP0002" x="0" y="3090" width="1594" height="1545" frameX="0" frameY="0" frameWidth="1594" frameHeight="1545" />
+	<SubTexture name="INVALID_TALK_HAND_LOOP0003" x="0" y="3090" width="1594" height="1545" frameX="0" frameY="0" frameWidth="1594" frameHeight="1545" />
+	<SubTexture name="INVALID_TALK_HAND_LOOP0004" x="1594" y="3090" width="1594" height="1545" frameX="0" frameY="0" frameWidth="1594" frameHeight="1545" />
+	<SubTexture name="INVALID_TALK_HAND_LOOP0005" x="1594" y="3090" width="1594" height="1545" frameX="0" frameY="0" frameWidth="1594" frameHeight="1545" />
+	<SubTexture name="INVALID_TALK_HAND_STOP0000" x="1594" y="3090" width="1594" height="1545" frameX="0" frameY="0" frameWidth="1594" frameHeight="1545" />
+	<SubTexture name="INVALID_TALK_HAND_STOP0001" x="1594" y="3090" width="1594" height="1545" frameX="0" frameY="0" frameWidth="1594" frameHeight="1545" />
+</TextureAtlas>

@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				15,
+				33
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				4,
+				4,
+				4
+			],
+			"name": "Sky_exe Idle"
+		},
+		{
+			"offsets": [
+				46,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sky_exe Right"
+		},
+		{
+			"offsets": [
+				22,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sky_exe Up"
+		},
+		{
+			"offsets": [
+				-20,
+				30
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sky_exe Down"
+		},
+		{
+			"offsets": [
+				51,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sky_exe Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sky_exe",
+	"position": [
+		-680,
+		-190
+	],
+	"healthicon": "icon-sky-exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-50,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

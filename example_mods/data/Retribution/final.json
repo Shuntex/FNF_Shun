@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "GHAAAAAAAAAHHHH!!!!!! WHY YOU LITTLE-",
+			"boxState": "angry",
+			"portrait": "shuntex",
+			"speed": 0.05
+		},
+		{
+			"expression": "shock",
+			"text": "S-SHUN, PLEASE CALM DOWN-!",
+			"boxState": "angry",
+			"portrait": "sakona",
+			"speed": 0.05
+		},
+		{
+			"expression": "scared",
+			"text": "Please...",
+			"boxState": "normal",
+			"portrait": "sakona",
+			"speed": 0.05
+		},
+		{
+			"expression": "scared",
+			"text": "Boyfriend, I think we may need some time alone for a bit... do you two mind?",
+			"boxState": "normal",
+			"portrait": "sakona",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "B-Bep... bep bop!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "No problem, let's head out!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "wtf",
+			"text": "..........",
+			"boxState": "normal",
+			"portrait": "shuntex",
+			"speed": 0.05
+		},
+		{
+			"expression": "scaredPlayer",
+			"text": "Shun... are you sure you are okay?",
+			"boxState": "normal",
+			"portrait": "sakonaPlayer",
+			"speed": 0.05
+		},
+		{
+			"expression": "wtf",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "shuntex",
+			"speed": 0.05
+		},
+		{
+			"expression": "scaredPlayer",
+			"text": "Shun...",
+			"boxState": "normal",
+			"portrait": "sakonaPlayer",
+			"speed": 0.05
+		}
+	]
+}

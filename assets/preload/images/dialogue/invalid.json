@@ -1,0 +1,37 @@
+{
+	"position": [
+		-480,
+		-540
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "INVALID_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				2
+			],
+			"loop_offsets": [
+				0,
+				1
+			],
+			"anim": "talk",
+			"idle_name": "INVALID_TALK_STOP",
+			"loop_name": "INVALID_TALK_LOOP"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk_alt",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "INVALID_TALK_HAND_LOOP",
+			"idle_name": "INVALID_TALK_HAND_STOP"
+		}
+	]
+}

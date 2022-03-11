@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CRASH_NOTES.png">
+	<SubTexture name="purple0000" x="0" y="0" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+	<SubTexture name="purple0001" x="160" y="0" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+	<SubTexture name="purple0002" x="320" y="0" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+	<SubTexture name="purple0003" x="480" y="0" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+	<SubTexture name="blue0000" x="0" y="160" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+	<SubTexture name="blue0001" x="160" y="160" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+	<SubTexture name="blue0002" x="320" y="160" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+	<SubTexture name="blue0003" x="480" y="160" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+	<SubTexture name="green0000" x="0" y="320" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+	<SubTexture name="green0001" x="160" y="320" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+	<SubTexture name="green0002" x="320" y="320" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+	<SubTexture name="green0003" x="480" y="320" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+	<SubTexture name="red0000" x="0" y="480" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+	<SubTexture name="red0001" x="160" y="480" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+	<SubTexture name="red0002" x="320" y="480" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+	<SubTexture name="red0003" x="480" y="480" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+</TextureAtlas>

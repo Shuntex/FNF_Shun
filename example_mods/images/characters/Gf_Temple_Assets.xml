@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Gf_Temple_Assets.png"><SubTexture name="GF_Sakona_Dance_Left0000" x="0" y="0" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Sakona_Dance_Left0001" x="1681" y="0" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Sakona_Dance_Left0002" x="3362" y="0" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Sakona_Dance_Left0003" x="5043" y="0" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Sakona_Dance_Right0000" x="0" y="1004" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Sakona_Dance_Right0001" x="1681" y="1004" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Sakona_Dance_Right0002" x="3362" y="1004" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Sakona_Dance_Right0003" x="5043" y="1004" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+
+<SubTexture name="GF_Sako_Scared_Left0000" x="0" y="2008" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Sako_Scared_Left0001" x="1681" y="2008" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Sako_Scared_Left0002" x="3362" y="2008" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Sako_Scared_Left0003" x="5043" y="2008" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Sako_Scared_Right0000" x="0" y="3012" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Sako_Scared_Right0001" x="1681" y="3012" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Sako_Scared_Right0002" x="3362" y="3012" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Sako_Scared_Right0003" x="5043" y="3012" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+
+<SubTexture name="GF_Dance_Left0000" x="0" y="4016" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Dance_Left0001" x="1681" y="4016" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Dance_Left0002" x="3362" y="4016" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Dance_Left0003" x="5043" y="4016" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Dance_Right0000" x="0" y="5020" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Dance_Right0001" x="1681" y="5020" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Dance_Right0002" x="3362" y="5020" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="GF_Dance_Right0003" x="5043" y="5020" width="1681" height="1004" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+
+<SubTexture name="Silent" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="Silent" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="Silent" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="Silent" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="Silent" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="Silent" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="Silent" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+<SubTexture name="Silent" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1681" frameHeight="1004" />
+</TextureAtlas>
